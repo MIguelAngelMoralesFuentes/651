@@ -1,0 +1,31 @@
+1 Ana Martínez CiudadA $50 Televisor 2023-08-01
+2 Juan Pérez CiudadB $30 Refrigerador 2023-08-01
+3 María López CiudadC $70 Lavadora 2023-08-03
+4 Carlos González CiudadA $60 Smartphone 2023-08-04
+5 Ana Martínez CiudadB $40 Tableta 2023-08-04
+6 Javier García CiudadC $90 Computadora 2023-08-06
+7 Carlos González CiudadA $55 Impresora 2023-08-06
+8 Martín Torres CiudadB $35 Microondas 2023-08-08
+9 Luis Rodríguez CiudadC $75 Cafetera 2023-08-09
+10 Ana Martínez CiudadA $65 Secadora 2023-08-10
+11 Sergio García CiudadB $45 Aspiradora 2023-08-10
+12 Pedro Fernández CiudadC $80 Computadora 2023-08-10
+13 Carlos González CiudadA $50 Plancha 2023-08-12
+14 Ana Martínez CiudadB $30 Batidora 2023-08-12
+15 Patricia Martínez CiudadC $70 Licuadora 2023-08-15
+16 Manuel López CiudadA $60 Tostadora 2023-08-16
+17 Natalia Torres CiudadB $40 Horno 2023-08-16
+18 Carlos González CiudadC $90 Cámara 2023-08-16
+19 Ana Martínez CiudadA $55 Proyector 2023-08-19
+20 Roberto Jiménez CiudadB $35 Auriculares 2023-08-20
+21 Carmen Martínez CiudadC $75 Impresora 2023-08-20
+22 Susana Sánchez CiudadA $65 Cafetera 2023-08-22
+23 Miguel Jiménez CiudadB $45 Microondas 2023-08-22
+24 Laura Pérez CiudadC $80 Ventilador 2023-08-24
+25 Carlos López CiudadA $50 Lavadora 2023-08-25
+26 Marta Torres CiudadB $30 Televisor 2023-08-26
+27 Juan Martínez CiudadC $70 Refrigerador 2023-08-27
+28 Silvia Pérez CiudadA $60 Bicicleta 2023-08-28
+29 Andrés Fernández CiudadB $40 Patineta 2023-08-29
+30 Natalia Torres CiudadC $90 Juego de mesa 2023-08-30
+31 Natalia Torres CiudadC $90 Juego de mesa 2023-08-30
