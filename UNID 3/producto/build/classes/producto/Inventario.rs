@@ -1,0 +1,2 @@
+producto.Inventario
+producto.Producto
